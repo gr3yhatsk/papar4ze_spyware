@@ -1,6 +1,8 @@
 # papar4ze_spyware
 Spyware that takes screenshots! Spyware que tira fotos da tela!
 
+![image](https://github.com/gr3yhatsk/papar4ze_spyware/assets/45762153/f44699da-b247-4915-8d87-779a4a51820c)
+
 
 # Instructions / Instrucoes
 
