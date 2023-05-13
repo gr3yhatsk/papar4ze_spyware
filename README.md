@@ -55,7 +55,7 @@ Then install the depencies 'py -m pip install pyautogui pillow'. / Depois instal
 
 ![image](https://github.com/gr3yhatsk/papar4ze_spyware/assets/45762153/b60ecb13-0d2b-4548-97b0-81c8cbc85c40)
 
-Then on cmd go to were you donwloaded the python script. / No cmd navegue ate onde voce baixou o script.
+Then on cmd go to were you downloaded the python script. / No cmd navegue ate onde voce baixou o script.
 
 ![image](https://github.com/gr3yhatsk/papar4ze_spyware/assets/45762153/dcf59337-f9f4-4b25-af8a-19b720835e2a)
 
@@ -83,7 +83,7 @@ On my email, i started receving the screenshots! / No meu email eu comecei a rec
 
 ![image](https://github.com/gr3yhatsk/papar4ze_spyware/assets/45762153/2d246330-e4ad-45fa-96fd-ffd0505a95b5)
 
-If you notice, this malware is not detected by the widows defender! That's awesome! Good hacking, use it wiselly. /  Note que o windows defender nao detectou o malware! Incrivel! Use sabiamente, bons hacks!
+If you notice, this malware is not detected by the widows defender! That's awesome! Good hacking, use it wisely. /  Note que o windows defender nao detectou o malware! Incrivel! Use sabiamente, bons hacks!
 
 
 
