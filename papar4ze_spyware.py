@@ -12,9 +12,6 @@ from email.message import EmailMessage
 #Some important libs bruv
 import pyautogui
 
-
-
-
 while(1):
 
     def send_email():
@@ -47,9 +44,3 @@ while(1):
 
     #send the email
     send_email()
-
-
-
-
-
-
