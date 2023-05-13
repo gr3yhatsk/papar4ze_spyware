@@ -83,7 +83,7 @@ On my email, i started receving the screenshots! / No meu email eu comecei a rec
 
 ![image](https://github.com/gr3yhatsk/papar4ze_spyware/assets/45762153/2d246330-e4ad-45fa-96fd-ffd0505a95b5)
 
-If you notice, this malware is not detected by the widows defender! That's awesome! Good hacking, use it wisely. /  Note que o windows defender nao detectou o malware! Incrivel! Use sabiamente, bons hacks!
+If you notice, this malware is not detected by the windows defender! That's awesome! Good hacking, use it wisely. /  Note que o windows defender nao detectou o malware! Incrivel! Use sabiamente, bons hacks!
 
 
 
