@@ -47,6 +47,43 @@ Then in the python script, put in you email in both 'Sender_email' and 'Reciver_
 
 ![image](https://github.com/gr3yhatsk/papar4ze_spyware/assets/45762153/28ad52db-4073-412c-a86d-dfcbe143a06f)
 
+3 - On Windows, open the cmd and type in 'py -m pip install pyinstaller'. / No Windows, abra o cmd e digite "py -m pip install pyinstaller".
+
+![image](https://github.com/gr3yhatsk/papar4ze_spyware/assets/45762153/c6fa1eec-6b7d-4f32-8306-e11e3fb08b34)
+
+Then install the depencies 'py -m pip install pyautogui pillow'. / Depois instale as dependencias 'py -m pip install pyautogui pillow'
+
+![image](https://github.com/gr3yhatsk/papar4ze_spyware/assets/45762153/b60ecb13-0d2b-4548-97b0-81c8cbc85c40)
+
+Then on cmd go to were you donwloaded the python script. / No cmd navegue ate onde voce baixou o script.
+
+![image](https://github.com/gr3yhatsk/papar4ze_spyware/assets/45762153/dcf59337-f9f4-4b25-af8a-19b720835e2a)
+
+On Windows Explorer go to C:\Users\yourusername\AppData\Programs\Python\Python311\Scripts\ than copy the 'pyinstaller' to the same folder as the python script. / No windows Explorer va ate C:\Users\TeuUsuario\AppData\Programs\Python\Python311\Scripts\ e copie o 'pyinstaller' para a mesma pasta do script.
+
+![image](https://github.com/gr3yhatsk/papar4ze_spyware/assets/45762153/d2e4b3d1-0c4e-483b-b6e7-c0a228b551d1)
+
+On cmd, type the command 'py -m pyinstaller.exe --noconsole --onefile papar4ze_spyware.py'. / No cmd digite o comando 'py -m pyinstaller.exe --noconsole --onefile papar4ze_spyware.py'.
+
+![image](https://github.com/gr3yhatsk/papar4ze_spyware/assets/45762153/959583bc-2405-4103-8c99-bb303768d526)
+
+Then wait for this message. / Depois aguarde por esta mensagem.
+
+![image](https://github.com/gr3yhatsk/papar4ze_spyware/assets/45762153/8504ec8f-32e9-489d-9abc-52f78eb22105)
+
+Then some new files are gonna be created, go in to the one name 'dist'. / Depois alguns arquivos vao ser criados, va ate a pasta 'dist'.
+
+![image](https://github.com/gr3yhatsk/papar4ze_spyware/assets/45762153/7f207dad-68ec-41db-82da-b3e8f620d677)
+
+Inside the folder is the malware, now send it to the victim and check your configurated email. Ps: Run it on yor machine to test it / Dentro da pasta vai estar o executavel, mande para vitima e veja seu email que voce cadastrou! Obs: Rode na sua maquina antes para testar!
+
+![image](https://github.com/gr3yhatsk/papar4ze_spyware/assets/45762153/5c7fdc93-1b54-4328-8012-7b916e441f76)
+
+On my email, i started receving the screenshots! / No meu email eu comecei a receber screenshots!
+
+![image](https://github.com/gr3yhatsk/papar4ze_spyware/assets/45762153/2d246330-e4ad-45fa-96fd-ffd0505a95b5)
+
+If you notice, this malware is not detected by the widows defender! That's awesome! Good hacking, use it wiselly. /  Note que o windows defender nao detectou o malware! Incrivel! Use sabiamente, bons hacks!
 
 
 
